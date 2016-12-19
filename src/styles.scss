@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+header {
+  height: 12rem;
+  width: 12rem;
+  border: 1px solid black;
+  width: 100%;
+  margin: 0;
+}
+
+main {
+  background-size: cover;
+  height: 80%;
+}
